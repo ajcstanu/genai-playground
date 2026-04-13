@@ -144,7 +144,6 @@ genai-playground/
 ├── 🖼️ assets/                   ← Place your own images here
 │
 ├── 📋 requirements.txt          ← Python dependencies
-├── 📄 LICENSE                   ← MIT License
 └── 📖 README.md                 ← This file
 ```
 
