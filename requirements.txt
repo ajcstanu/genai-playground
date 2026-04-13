@@ -1,0 +1,31 @@
+# ============================================================
+#  GenAI Playground — Python Requirements
+#  Install with: pip install -r requirements.txt
+# ============================================================
+
+# Core ML frameworks
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Hugging Face ecosystem
+transformers>=4.35.0
+diffusers>=0.21.0
+accelerate>=0.24.0
+sentencepiece>=0.1.99
+sacremoses>=0.0.53
+tokenizers>=0.14.0
+
+# Image processing
+Pillow>=10.0.0
+
+# Notebook & visualization
+jupyter>=1.0.0
+jupyterlab>=4.0.0
+ipywidgets>=8.0.0
+matplotlib>=3.7.0
+
+# HTTP requests
+requests>=2.31.0
+
+# Optional: faster inference
+# xformers>=0.0.22  # uncomment for GPU memory optimization
