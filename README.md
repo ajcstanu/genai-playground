@@ -6,7 +6,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 ![HuggingFace](https://img.shields.io/badge/🤗-Transformers-yellow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red?logo=pytorch)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Stars](https://img.shields.io/github/stars/yourusername/genai-playground?style=social)
 
 **A comprehensive Jupyter Notebook exploring the full landscape of Generative AI —  
