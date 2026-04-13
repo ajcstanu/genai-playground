@@ -240,11 +240,7 @@ Ideas for contributions:
 - [PyTorch Tutorials](https://pytorch.org/tutorials/)
 - [Stable Diffusion Guide](https://stability.ai/blog/stable-diffusion-public-release)
 
----
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
