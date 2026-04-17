@@ -21,10 +21,10 @@ Text, Images, Stories, Poetry, Q&A, Chatbots, Translation and more.**
 
 This project is a **hands-on, all-in-one AI playground** built inside a single Jupyter Notebook. It's designed for:
 
-- 🎓 **Students** learning about Generative AI and NLP
-- 🔬 **Researchers** quickly experimenting with pre-trained models
-- 💻 **Developers** building a portfolio showcase
-- 🤩 **Enthusiasts** exploring the power of modern AI
+-  **Students** learning about Generative AI and NLP
+-  **Researchers** quickly experimenting with pre-trained models
+-  **Developers** building a portfolio showcase
+-  **Enthusiasts** exploring the power of modern AI
 
 Every section is self-contained and fully documented with docstrings and comments — just run the cells!
 
