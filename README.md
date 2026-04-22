@@ -250,7 +250,6 @@ If you found this project helpful, please consider:
 - 📢 **Sharing** it with friends and colleagues
 
 ---
-
 <div align="center">
 
 Made with ❤️ and 🤖 AI
