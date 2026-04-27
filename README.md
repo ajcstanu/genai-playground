@@ -124,7 +124,6 @@ For the **Image Generation** section (Cell 11a), you need a free Hugging Face AP
 | 🌐 Requests | 2.31+ | API calls |
 
 ---
-
 ## 📁 Project Structure
 
 ```
@@ -181,7 +180,6 @@ bot = Chatbot()
 response = bot.chat("What do you think about AI?")
 print(response)
 ```
-
 ---
 
 ## ⚙️ Configuration
@@ -237,8 +235,6 @@ Ideas for contributions:
 - [Diffusers Documentation](https://huggingface.co/docs/diffusers)
 - [PyTorch Tutorials](https://pytorch.org/tutorials/)
 - [Stable Diffusion Guide](https://stability.ai/blog/stable-diffusion-public-release)
-
-
 
 ---
 
